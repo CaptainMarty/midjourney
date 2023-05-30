@@ -1,0 +1,2 @@
+### INFORMATIONS
+Voici des projet avec Midjourney basé sur des prompt fait avec chatGPT qui créer des titres de film, avec un synopsis, et créer un prompt correcte pour midjourney afin de créer une affiche de film
